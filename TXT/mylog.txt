@@ -4,4 +4,3 @@
 ZCZC W00 45 L03 GitHub related
 ZCZC W00 28 L21 VirtualBox: install VirtualBox
 ZCZC W00 29 L21 VirtualBox: create Debian guest
-ZCZC W00 ## L03 GitHub related
