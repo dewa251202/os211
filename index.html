@@ -4,15 +4,18 @@
         <style>
             body {
                 font-family: Monospace;
-                font-size: 20px;
             }
             
-            a:visited {
+            a {
                 color: 0;
             }
             
             .navbar {
                 display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                background-color: cyan;
+                font-size: 20px;
             }
             
             .navbar a {
@@ -24,13 +27,19 @@
             .navbar a:hover {
                 background-color: #D0D0D0;
             }
+            
+            .main-section {
+                padding: 0.3em 0.5em;
+                font-size: 16px;
+                background-color: lavender;
+            }
         </style>
     </head>
     <body>
         <div style="max-width: 70%; margin: 0 auto;">
             <div class="navbar">
                 <a href="">HOME</a>
-                <a href="">W01</a>
+                <a>W01</a>
                 <a>W02</a>
                 <a>W03</a>
                 <a>W04</a>
@@ -44,8 +53,11 @@
                 <a href="./TXT/mylog.txt">LOG</a>
                 <a href="https://github.com/dewa251202/os211">GitHub</a>
             </div>
-            <section>
-            </section>
+            <div class="main-section">
+                Hello!
+                <p>This is Operating Systems 2021-1 (OS211) and I am Dewangga Putra Sheradhien.</p>
+                Nice to meet you!
+            </div>
         </div>
     </body>
 </html>
