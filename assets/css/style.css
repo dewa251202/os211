@@ -4,34 +4,24 @@
  "Mike Dane", "w3schools", et al.
  */
 
-.backclass {
-  background-image:url(/assets/images/default.png)
-}
-
-.plainclass {
-  color:            white;
-  background-color: #001030;
-}
-
-.plainclass1 {
-  color:            white;
-  background-color: black;
+.bg-white {
+  background-color: white;
 }
 
 .container {
   max-width:    70%;
   margin:       0 auto;
   font-size:    1.1em;
-  font-family:  verdana,arial,helvetica,san-serif;
+  font-family:  Monospace;
   text-align:   justify;
 }
 
 .container a {
-  color: #a0a0a0;
+  color: 0;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  background-color: #D0D0D0;
 }
 
 .row {
@@ -73,36 +63,6 @@
   font-size:        1.1em;
   font-weight:      bold;
 }
-}
-
-.youtube {
-  float:            left;
-  display:          inline-block;
-  height:           150px;
-  width:            100%;
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-}
-
-.yvideo {
-  width:            25%;
-  height:           100%;
-  padding-top:      0px;
-  padding-bottom:   0px;
-  padding-left:     0px;
-  padding-right:    0px;
-}
-
-.yinfo {
-  width:            calc(75%  - 30px);
-  height:           calc(100% - 20px);
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-}
 
 .row:after {
   content: "";
@@ -111,8 +71,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: cyan;
+  color:            0;
   font-size:        0.7em;
 }
 
@@ -125,13 +85,7 @@
 
 .navbar ul li a {
   text-decoration: none;
-}
-
-.navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
-  font-size:        1em;
-  font-weight:      bold;
+	cursor: 				 pointer;
 }
 
 pre {
@@ -141,23 +95,6 @@ pre {
   font-size:     0.7em; 
   border-radius: 2px;
 }
-
-/*
-  ZCZC
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px; 
-  color: #b5e853;
-  background: rgba(0, 0, 0, 0.9);
-  border-radius: 2px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-  max-width: 65%;
- */
-
-/*
- ************************************************************
- */
 
 @media screen and (max-width:768px) {
   ul {
