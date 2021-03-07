@@ -1,0 +1,20 @@
+title:       "Operating Systems 2021-1 (OS211)"
+version:     "0031a---07-Mar-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+author:           "Dewangga Putra Sheradhien"
+address:          "Boyolali"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://dewa251202.github.io/os211/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/dewa251202/os211/"
+urlghpage:        "https://dewa251202.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
