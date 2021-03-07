@@ -12,4 +12,5 @@ ZCZC W01 233 L21 VirtualBox: install Debian
 ZCZC W01 67 L09 AsDos: assistance
 ZCZC W01 7 L27 Pets: petting, feeding
 ZCZC W01 60 L08 Trying bash commands
-
+ZCZC W01 180 L04 GitHub Pages: recreate
+ZCZC W01 5 L09 AsDos: asking
