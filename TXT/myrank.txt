@@ -1,3 +1,8 @@
 # TOP 10 Rank
 # Rank Format
 # ZCZC W## GitHubUser
+
+#W01
+ZCZC W01 Ageng-Anugrah
+ZCZC W01 alifsaddid
+ZCZC W01 hockyy

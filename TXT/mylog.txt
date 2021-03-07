@@ -18,3 +18,4 @@ ZCZC W01 7 L27 Pets: petting, feeding
 ZCZC W01 60 L08 Trying bash commands
 ZCZC W01 180 L04 GitHub Pages: recreate
 ZCZC W01 5 L09 AsDos: asking
+ZCZC W01 240 L17 Assignment #7: GSGS for 10 most interesting links
